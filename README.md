@@ -1,7 +1,6 @@
 
 ## Thinking in Java (Java 编程思想)
 
-
 本书来自网络，[全科-不安分的码农](http://quanke.name)整理成电子书，支持PDF，ePub，Mobi格式，方便大家下载阅读。
 
 阅读地址：https://alleniverson.gitbooks.io/thinking-in-java/content/
@@ -12,9 +11,7 @@ github地址：https://github.com/JackChen1999/think-in-java
 
 GitBook：https://www.gitbook.com/@alleniverson
 
-第13章没有编辑，觉得没有意义，Java的GUI先在应用少，有时间在编辑好
-
-编辑整理辛苦，还望大神们点一下star ，抚平我虚荣的心
+第13章没有编辑，觉得没有意义，Java的GUI现在应用少，有时间再编辑好
 
 ## 目录
 
@@ -179,3 +176,15 @@ GitBook：https://www.gitbook.com/@alleniverson
 * [附录D 性能](附录/附录D 性能.md)
 * [附录E 关于垃圾收集的一些话](附录/附录E 关于垃圾收集的一些话.md)
 * [附录F 推荐读物](附录/附录F 推荐读物.md)
+
+## 关注我
+
+- Email：<815712739@qq.com>
+- CSDN博客：[Allen Iverson](http://blog.csdn.net/axi295309066)
+- 新浪微博：[AndroidDeveloper](http://weibo.com/u/1848214604?topnav=1&wvr=6&topsug=1&is_all=1)
+- GitHub：[JackChen1999](https://github.com/JackChen1999)
+- GitBook：[alleniverson](https://www.gitbook.com/@alleniverson)
+
+|                   微信打赏                   |                  支付宝打赏                   |
+| :--------------------------------------: | :--------------------------------------: |
+| <img src="assets/weixin.png" width="300" /> | <img src="assets/支付宝.jpg" width="300" /> |
