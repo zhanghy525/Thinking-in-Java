@@ -4,13 +4,13 @@
 
 本书来自网络，[全科-不安分的码农](http://quanke.name)整理成电子书，支持PDF，ePub，Mobi格式，方便大家下载阅读。
 
-阅读地址：https://java.quanke.name
+阅读地址：https://alleniverson.gitbooks.io/thinking-in-java/content/
 
-下载地址：https://www.gitbook.com/book/quanke/think-in-java/
+下载地址：https://www.gitbook.com/book/alleniverson/thinking-in-java/details
 
-github地址：https://github.com/quanke/think-in-java
+github地址：https://github.com/JackChen1999/think-in-java
 
-编辑：http://quanke.name
+GitBook：https://www.gitbook.com/@alleniverson
 
 第13章没有编辑，觉得没有意义，Java的GUI先在应用少，有时间在编辑好
 
