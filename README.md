@@ -181,6 +181,14 @@
 * [附录E 关于垃圾收集的一些话](https://alleniverson.gitbooks.io/thinking-in-java/content/附录/附录E%20关于垃圾收集的一些话.html)
 * [附录F 推荐读物](https://alleniverson.gitbooks.io/thinking-in-java/content/附录/附录F%20推荐读物.html)
 
+## [Java编程思想视频教程](https://itvedios.github.io/2017/11/29/后端开发/Java/猎豹网校Java编程思想视频教程/)
+
+![](http://oqn6ggw87.bkt.clouddn.com/Java编程思想初级教程.png)
+
+![](http://oqn6ggw87.bkt.clouddn.com/Java编程思想中级教程.png)
+
+![](http://oqn6ggw87.bkt.clouddn.com/Java编程思想高级教程.png)
+
 ## 关注我
 
 - Email：<619888095@qq.com>
